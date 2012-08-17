@@ -1,7 +1,4 @@
-/**
- *  @add jQuery.fn
- */
-steal("jquery/dom").then(function( $ ) {
+(function( $ ) {
 	var radioCheck = /radio|checkbox/i,
 		keyBreaker = /[^\[\]]+/g,
 		numberMatcher = /^[\-+]?[0-9]*\.?[0-9]+([eE][\-+]?[0-9]+)?$/;
@@ -161,4 +158,4 @@ steal("jquery/dom").then(function( $ ) {
 		}
 	});
 
-});
+})(jQuery);
