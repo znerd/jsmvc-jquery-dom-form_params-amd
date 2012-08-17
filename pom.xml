@@ -4,7 +4,7 @@
   <groupId>org.znerd</groupId>
   <artifactId>jsmvc-jquery-dom-form_params-amd</artifactId>
   <packaging>pom</packaging>
-  <version>3.2.0.001</version>
+  <version>3.2.0.002-SNAPSHOT</version>
 
   <name>JavaScriptMVC jquery/dom/form_params AMD Library</name>
   <description>JavaScriptMVC jquery/dom/form_params library with AMD wrapper</description>
@@ -30,7 +30,7 @@
     <connection>scm:git:git@github.com:znerd/jsmvc-jquery-dom-form_params-amd.git</connection>
     <developerConnection>scm:git:git@github.com:znerd/jsmvc-jquery-dom-form_params-amd.git</developerConnection>
     <url>git@github.com:znerd/jsmvc-jquery-dom-form_params-amd.git</url>
-    <tag>jsmvc-jquery-dom-form_params-amd-3.2.0.001</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
