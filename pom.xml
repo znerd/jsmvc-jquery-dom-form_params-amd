@@ -6,8 +6,8 @@
   <packaging>pom</packaging>
   <version>3.2.0.000-SNAPSHOT</version>
 
-  <name>JavaScriptMVC jquery/dom-form_params AMD Library</name>
-  <description>JavaScriptMVC jquery/dom-form_params library with AMD wrapper</description>
+  <name>JavaScriptMVC jquery/dom/form_params AMD Library</name>
+  <description>JavaScriptMVC jquery/dom/form_params library with AMD wrapper</description>
   <url>https://github.com/znerd/jsmvc-jquery-dom-form_params-amd/</url>
 
   <inceptionYear>2012</inceptionYear>
